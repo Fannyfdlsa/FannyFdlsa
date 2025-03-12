@@ -1,17 +1,16 @@
-### Hi there 👋
+👋 Hi there! Welcome to my GitHub profile!
 
-Perkenalkan nama saya **Fanny Fadlilatunnisa**.
-<!--
-**Fannyfdlsa/FannyFdlsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
+I am passionate about technology, coding, and problem-solving, always eager to explore new advancements in software development and data science. With a strong focus on continuous learning, I strive to enhance my skills and stay updated with the latest industry trends. My goal is to build scalable and efficient solutions that not only solve real-world problems but also contribute to technological innovation.
 
-Here are some ideas to get you started:
+📚 Skills & Technologies:
+Programming: Python, JavaScript, Java
+Web Development: React, Node.js
+Database: SQL
+Data Science & AI: TensorFlow, PyTorch, Pandas
+DevOps & Tools: Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect!
+🌐 Portfolio: yourwebsite.com
+🐦 Twitter: @yourhandle
+💼 LinkedIn: linkedin.com/in/yourprofile
