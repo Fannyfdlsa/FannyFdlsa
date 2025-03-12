@@ -11,6 +11,6 @@ Data Science & AI: TensorFlow, PyTorch, Pandas
 DevOps & Tools: Docker, Git
 
 📫 Let's Connect!
-🌐 Portfolio: yourwebsite.com
-🐦 Twitter: @yourhandle
-💼 LinkedIn: linkedin.com/in/yourprofile
+🌐 Portfolio: 
+🐦 Instagram: @fnyfdlsa
+💼 LinkedIn: https://www.linkedin.com/in/fanny-fadlilatunnisa/
